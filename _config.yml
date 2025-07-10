@@ -1,1 +1,19 @@
+title: Siddhartha Komakula
+description: >
+  Portfolio of Siddhartha Komakula, a Data Analyst with 7+ years of experience in healthcare, finance, and retail.
+  Skilled in SQL, Python, Power BI, Tableau, and cloud technologies. Passionate about data-driven decision making.
+
+baseurl: ""  # leave this blank if you're using isidkoma.github.io
+url: "https://isidkoma.github.io"
+
+author: Siddhartha Komakula
+email: skomakula09@gmail.com
+linkedin_username: siddharthakomakula
+github_username: isidkoma
+
+resume_url: /assets/Siddhartha_Komakula_Resume.pdf
+logo: /assets/img/profile.jpg  # Make sure this file exists
+
+theme: jekyll-theme-minimal
+show_downloads: true
 
