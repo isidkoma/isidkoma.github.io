@@ -12,7 +12,8 @@ linkedin_username: siddharthakomakula
 github_username: isidkoma
 
 resume_url: /assets/Siddhartha_Komakula_Resume.pdf
-logo: assets/img/profile.jpg  # Make sure this file exists
+logo: /assets/img/profile.jpg
+  # Make sure this file exists
 
 theme: jekyll-theme-minimal
 show_downloads: true
