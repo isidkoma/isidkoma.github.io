@@ -42,7 +42,8 @@ Specialized in SQL, Power BI, Python, Excel, and cloud platforms to deliver insi
 
 ## 📄 Resume
 
-View or download my resume: [Siddhartha_Komakula_Resume.pdf](./assets/Siddhartha_Komakula_Resume.pdf)
+[⬇️ Download My Resume](assets/Siddhartha_Komakula_Resume.docx)
+
 
 ---
 
