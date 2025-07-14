@@ -44,7 +44,6 @@ Specialized in SQL, Power BI, Python, Excel, and cloud platforms to deliver insi
 
 [⬇️ Download My Resume](assets/Siddhartha_Komakula_Resume.docx)
 
-
 ---
 
 ## 💼 Portfolio Projects
