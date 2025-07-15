@@ -58,15 +58,6 @@ Specialized in SQL, Power BI, Python, Excel, and cloud platforms to deliver insi
 
 ---
 
-## 📜 Certifications
-
-- Google Data Analytics Certificate
-- Advanced Microsoft Excel
-- Power BI for Business Analytics
-- Tableau Analyst Badge
-
----
-
 ## 📞 Contact
 
 **Email**: skomakula09@gmail.com  
